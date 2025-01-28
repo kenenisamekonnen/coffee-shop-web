@@ -12,7 +12,8 @@ Here’s a quick preview of the website:
 
 ## Technologies Used 🛠️
 **-HTML5:** For the website structure and content.
-**-CSS3:** For styling and layout design, including:
+
+**-CSS3:** **For styling and layout design, including:**
 Responsive design for a seamless experience across devices.
 Hover effects for interactive elements.
 Flexbox/Grid for layout alignment.
